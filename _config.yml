@@ -1,0 +1,62 @@
+# Site settings
+title: "Trung Vu Resume"
+description: "A resume template for Jekyll and GitHub Pages sites."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Trung Vu"
+resume_title:                   "System Administrator"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "vutientrung.danang@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "0904043373"
+resume_contact_address:         "228/10 Nguyen Hoang St ,Da Nang, Viet Nam"
+
+resume_header_contact_info:     "228/10 Nguyen Hoang St ,Da Nang, Viet Nam • 0904043373 • vutientrung.danang@gmail.com"
+display_header_contact_info:    "fase"
+
+resume_header_intro: "<p>Experienced and knowledgeable information technology professional seeking to contribute training and acquired skills within a System Admin role. Well-versed in Windows Active Directory. Works well independently or in a group setting, providing all facets of computer help desk support such as troubleshooting, installations, and maintenance. In-depth knowledge and understanding of numerous software packages and operating systems. Skilled in providing customer and end user help desk support. Easily identifies and resolves technical issues and concerns.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/vandergun"
+  resume_twitter_url:           "http://twitter.com/vutientrung"
+  resume_facebook_url:          "https://www.facebook.com/vtientrung/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/trungvuit"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

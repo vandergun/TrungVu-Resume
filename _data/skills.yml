@@ -1,0 +1,22 @@
+# Skills
+# Organizational leadership
+- skill: System Administrator
+  description: I have several years of experience working with Windows Server, Active Directory , Office 365 Management. Deploy and manage many services and application like WebServices(IIS,Apache,Tomcat), Database Server (MSSQL Server,MySQL), and DHCP ,DNS, Mailserver (Redmail,Zimbra),FTP, VPN Server.
+
+- skill: Antivirus & Endpoint Protection Solutions
+  description: I implemented and managed some products of Endpoint Protection like ESET,McAfee,Kaspersky.
+
+# Communications strategy
+- skill: Network Administrator
+  description: I have experience to implement and manage Cisco Switchs L2 and L3, Cisco ASA, Sonicwall Firewall, Access Point solutions like Cisco Meraki, Unifi. 
+
+# Digital content development and creation
+- skill: Technical Support
+  description: Can handle technical support for many platform like Windows OS, Ubuntu, Centos, Mac OSX, troubleshoot basic hardware issues.
+
+- skill: Virtualization and Cloud Platform
+  description: Friendly with Hyper-V,VMWare. Can deploy and manage some service on Azure .
+
+- skill: Program Language
+  description: Have basic knowledge about some program language like HTML&CSS, Python, PowerShell Script.
+
