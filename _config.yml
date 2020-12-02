@@ -1,5 +1,5 @@
 # Site settings
-title: "Trung Vu Resume"
+title: "Trung Vu-Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -49,7 +49,7 @@ resume_social_links:
   resume_twitter_url:           "http://twitter.com/vutientrung"
   resume_facebook_url:          "https://www.facebook.com/vtientrung/"
   resume_linkedin_url:          "https://www.linkedin.com/in/trungvuit"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/vtrungxx/"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true

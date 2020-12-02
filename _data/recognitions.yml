@@ -1,10 +1,22 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- cert: CCNA #h3
+  organization: Danang Information & Communication Technology Center #h4
+  year: 2013  #h4
+  #summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- cert: MCSA & MCSE
+  organization: MIND Da Nang
+  year: 2015
+  #summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+- cert: Azure Administrator Associate
+  organization: NGN Network Academy
+  year: 2020
+
+- cert: Microsoft 365 Administrator
+  organization: ITFORVN
+  year: 2020
+
+- cert: Some online courses about System and Network and SQL Administrator
+  organization: Udemy, Alison, Cybrary
+  year: 2015 - 2020
